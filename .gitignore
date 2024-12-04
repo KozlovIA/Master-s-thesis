@@ -1,0 +1,7 @@
+chroma_storage
+dataset
+*.pdf*
+*.docx*
+log
+GigaInsight
+*prompts.txt*

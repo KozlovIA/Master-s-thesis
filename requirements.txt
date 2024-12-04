@@ -1,0 +1,7 @@
+requests
+nltk
+tf-keras
+chromadb
+sentence_transformers
+pypdf
+rapidocr-onnxruntime
