@@ -1,0 +1,66 @@
+topics:
+  - name: "Machine Learning"
+    questions:
+      - "What is supervised learning, and how does it differ from unsupervised learning?"
+      - "How do ensemble methods work in machine learning?"
+      - "What are the main advantages and disadvantages of neural networks?"
+      - "For what tasks are decision trees most suitable?"
+      - "How does the Support Vector Machine (SVM) algorithm work, and when should it be used?"
+      - "What are the key algorithms for clustering, and what are their main characteristics?"
+      - "How has deep learning changed the approach to solving machine learning problems?"
+
+  - name: "Data Analysis"
+    questions:
+      - "What are the main steps in data preprocessing?"
+      - "What is dimensionality reduction, and how does it help in data analysis?"
+      - "How can you select the appropriate data visualization method for a dataset?"
+      - "What methods are used for time series analysis?"
+      - "What is regression analysis, and how is it applied in practice?"
+      - "Why is feature engineering critical in data analysis?"
+      - "What are the key steps involved in statistical analysis of data?"
+
+  - name: "Optimization Techniques"
+    questions:
+      - "How does gradient descent work, and what are its main variants?"
+      - "What is convex optimization, and why is it important in machine learning?"
+      - "What principles underpin genetic algorithms?"
+      - "How does Bayesian optimization work, and what tasks is it used for?"
+      - "What is linear programming, and where can it be applied?"
+      - "What advantages do evolutionary algorithms offer for finding optimal solutions?"
+
+  - name: "Natural Language Processing"
+    questions:
+      - "What is language modeling, and what are its main applications?"
+      - "How does sentiment analysis work, and what tools are used to perform it?"
+      - "What methods are used for topic modeling?"
+      - "What are transformers, and how have they revolutionized NLP?"
+      - "How do sequence-to-sequence models work?"
+      - "What are the primary tasks addressed by text mining?"
+      - "What are word embeddings, and what algorithms are used to create them?"
+
+  - name: "Computer Vision"
+    questions:
+      - "What are the most popular algorithms for image classification?"
+      - "What is object detection, and how is it applied in practice?"
+      - "How do convolutional neural networks (CNNs) work?"
+      - "What is image segmentation, and how does it differ from classification?"
+      - "How is transfer learning used in computer vision?"
+      - "What are some examples of applications for Generative Adversarial Networks (GANs)?"
+      - "What are the key challenges in building models for computer vision?"
+
+  - name: "Theoretical Foundations"
+    questions:
+      - "How is probability theory applied in machine learning?"
+      - "What is information in the context of information theory?"
+      - "What problems does statistical learning theory address?"
+      - "How is complexity theory related to machine learning?"
+      - "What is Bayesian inference, and how is it used in statistical modeling?"
+
+  - name: "Applied AI"
+    questions:
+      - "How do recommender systems work, and what are their types?"
+      - "What approaches are most effective for anomaly detection?"
+      - "What are forecasting models, and how are they used in business?"
+      - "What are the main technologies used in robotics?"
+      - "How are autonomous systems transforming industries?"
+      - "What are the key principles of AI ethics, and why are they important?"
